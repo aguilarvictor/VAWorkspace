@@ -2,7 +2,7 @@
     <string name="app_name">BiblePlan</string>
     <string name="welcome_to_bible_plan">Welcome to Bible plan!</string>
     <string name="select_your_plan">Select your plan:</string>
-    <string name="week_no">Week No.</string>
+    <string name="week_no">Week %1$d</string>
     <string name="genesis_mark_psalm">Genesis; Mark; Psalm</string>
     <string name="five_day_bible_reading_program">Five Day Bible Reading Program</string>
 </resources>
