@@ -20,6 +20,7 @@ class DatabaseHelper(
 
         val db= openDatabase(dbfile?.path!!,null,SQLiteDatabase.OPEN_READWRITE) //openOrCreateDatabase("fivedayplan.db", null)
         db?.execSQL(FiveDayDbContract.WeekEntry.SQL_CREATE_ENTRIES)
+
     }
 
     /*
