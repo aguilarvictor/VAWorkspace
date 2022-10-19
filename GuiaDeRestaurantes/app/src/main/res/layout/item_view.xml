@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><!--
+<?xml version="1.0" encoding="utf-8"?>
+<!--
      Copyright (C) 2020 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,11 +14,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
-    <string name="app_name">¡Qué Rico!</string>
-    <string name="detail_prefix">Words That Start With</string>
-    <string name="action_switch_layout">Switch Layout</string>
-    <string name="look_up_word">Look up word in a Browser Search</string>
-    <string name="look_up_words">Show Stored Words</string>
-    <string name="word_list_fragment_label">Words That Start With {letter}</string>
-</resources>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    android:padding="8dp" />

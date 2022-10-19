@@ -1,4 +1,4 @@
-package com.vaworks.guiaderestaurantes
+package com.vaworks.querico
 
 import org.junit.Test
 

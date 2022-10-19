@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.5197916666666667" />
+        <entry key="app/src/main/res/layout/fragment_restaurantname_list.xml" value="0.290625" />
+        <entry key="app/src/main/res/layout/fragment_style_list.xml" value="0.290625" />
+        <entry key="app/src/main/res/layout/item_view.xml" value="0.290625" />
       </map>
     </option>
   </component>
